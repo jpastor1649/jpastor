@@ -18,19 +18,17 @@
 
 ## 📘 Experiencia Académica y Proyectos
 
-🔹 **[Nombre del Proyecto]**  
+🔹 **[Sistema que controla los recibos]**  
 _Sistema de pedidos y despacho para restaurante usando simulación basada en agentes_  
 Tecnologías: Python, NumPy, SED  
 > Modelado de clientes, pedidos y despacho con múltiples vehículos. Métricas de rendimiento, visualización y lógica de optimización.
 
-🔹 **[Nombre del Proyecto]**  
-_Web de gestión de inventario y alquiler de maquinaria_  
-Tecnologías: Flask, MySQL, Bootstrap  
+🔹 **[Sistema de Inventario]**  
+_Sistema de inventario, para manejar entrada y salida de productos (prototipo) 
+Tecnologías: Java, Mysql
 > Desarrollado en equipo. CRUD completo, autenticación, conexión a base de datos y despliegue en servidor local.
 
 🔹 **Otros proyectos**:  
-- Mini dashboard con Flask y Chart.js  
-- Algoritmo de detección de patrones en series temporales  
 - Sistema de codificación Huffman en Python
 
 ---
@@ -43,6 +41,5 @@ Busco oportunidades como desarrollador junior o practicante donde pueda aplicar 
 
 ## 🌐 Enlaces
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 📂 [Portafolio Web (GitHub Pages)](https://tuusuario.github.io)
+- 🔗 [LinkedIn]()
 - 📫 Email: jpastor@unal.edu.co

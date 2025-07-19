@@ -9,10 +9,10 @@
 ## 🛠️ Tecnologías y Herramientas
 
 - **Lenguajes**: Python, JavaScript, Java  
-- **Backend**: * 
-- **Frontend**: HTML, CSS, react (basico) 
-- **Base de datos**: MySQL,   
-- **Otros**: Git, GitHub, Docker,VSCode  
+- **Backend**:  Python (Flask, FastAPI)  JavaScript (Node.js) Java (Spring Boot)
+- **Frontend**: HTML, CSS, react (nivel basico) 
+- **Base de datos**: MySQL, PostgreSQL  
+- **Otros**: Git, GitHub, Docker 
 
 ---
 

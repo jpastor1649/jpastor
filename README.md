@@ -1,4 +1,4 @@
-## 👋 Hola, soy [Alejandro Pastor]
+## 👋 Hola, soy Alejandro Pastor
 
 🎓 Estudiante de Ingeniería de Sistemas / Desarrollador Junior  
 💡 Apasionado por la tecnología, la resolución de problemas y la mejora continua.  

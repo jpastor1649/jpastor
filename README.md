@@ -19,8 +19,8 @@
 ## 📘 Experiencia Académica y Proyectos
 
 🔹 **[Sistema que controla los recibos]**  
-_Sistema de pedidos y despacho para restaurante usando simulación basada en agentes_  
-Tecnologías: Python, NumPy, SED  
+_En proceso_  
+Tecnologías: Python, Mysql, PyQT  
 > Modelado de clientes, pedidos y despacho con múltiples vehículos. Métricas de rendimiento, visualización y lógica de optimización.
 
 🔹 **[Sistema de Inventario]**  

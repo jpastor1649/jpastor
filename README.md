@@ -9,21 +9,21 @@
 ## 🛠️ Tecnologías y Herramientas
 
 - **Lenguajes**: Python, JavaScript, Java  
-- **Backend**:  Python (Flask, FastAPI)  JavaScript (Node.js) Java (Spring Boot)
+- **Backend**:  Python (Flask) JavaScript (Node.js) Java 
 - **Frontend**: HTML, CSS, react (nivel basico) 
 - **Base de datos**: MySQL, PostgreSQL  
-- **Otros**: Git, GitHub, Docker 
+- **Otros**: Git, GitHub 
 
 ---
 
 ## 📘 Experiencia Académica y Proyectos
 
-🔹 **[Sistema que controla los recibos]**  
-_En proceso_  
+🔹 **Sistema que controla los recibos**  
+_Sistema de gestion de recibos, para manejar recibos de servicios y arriendos de multiples apartamentos (prototipo)  
 Tecnologías: Python, Mysql, PyQT  
 > Modelado de clientes, pedidos y despacho con múltiples vehículos. Métricas de rendimiento, visualización y lógica de optimización.
 
-🔹 **[Sistema de Inventario]**  
+🔹 **Sistema de Inventario**  
 _Sistema de inventario, para manejar entrada y salida de productos (prototipo) 
 Tecnologías: Java, Mysql
 > Desarrollado en equipo. CRUD completo, autenticación, conexión a base de datos y despliegue en servidor local.

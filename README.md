@@ -1,45 +1,49 @@
-## 👋 Hola, soy Alejandro Pastor
+## 👋 Hello, I am Alejandro Pastor
 
-🎓 Estudiante de Ingeniería de Sistemas / Desarrollador Junior  
-💡 Apasionado por la tecnología, la resolución de problemas y la mejora continua.  
-🔍 Interesado en el desarrollo backend, análisis de datos y simulación computacional.
+🎓 A Systems Engineering student and aspiring Junior Developer with a strong passion for technology, problem-solving, and continuous learning.
 
----
+💡 I thrive on tackling technical challenges and turning ideas into practical solutions.
 
-## 🛠️ Tecnologías y Herramientas
+🔍 My interests lie in backend development, data analysis, and computational simulation, where I aim to build efficient, scalable, and meaningful systems
 
-- **Lenguajes**: Python, JavaScript, Java  
-- **Backend**:  Python (Flask) JavaScript (Node.js) Java 
-- **Frontend**: HTML, CSS, react (nivel basico) 
-- **Base de datos**: MySQL, PostgreSQL  
-- **Otros**: Git, GitHub 
+📌 Currently building prototypes, exploring algorithms, and contributing to academic projects using Python, Java, SQL, and Git.
 
 ---
 
-## 📘 Experiencia Académica y Proyectos
+## 🛠️ Technologies and Tools
 
-🔹 **Sistema que controla los recibos**  
-_Sistema de gestion de recibos, para manejar recibos de servicios y arriendos de multiples apartamentos (prototipo)  
-Tecnologías: Python, Mysql, PyQT  
-> Modelado de clientes, pedidos y despacho con múltiples vehículos. Métricas de rendimiento, visualización y lógica de optimización.
-
-🔹 **Sistema de Inventario**  
-_Sistema de inventario, para manejar entrada y salida de productos (prototipo) 
-Tecnologías: Java, Mysql
-> Desarrollado en equipo. CRUD completo, autenticación, conexión a base de datos y despliegue en servidor local.
-
-🔹 **Otros proyectos**:  
-- Sistema de codificación Aritmetica en Python
+- **Programming Languages**: Python, JavaScript, Java  
+- **Frontend**: HTML, CSS, React (Basic Proficiency) 
+- **DataBases**: MySQL, SQL Server, Oracle PostgreSQL
+- **Otros**: Git, GitHub
+- **Data Analysis**: Numpy, Pandas and SimPy (Basic Proficiency)
 
 ---
 
-## 🚀 Objetivo Profesional
+## 📘 Academic Experience and Projects
 
-Busco oportunidades como desarrollador junior o practicante donde pueda aplicar mis conocimientos, seguir aprendiendo y contribuir a proyectos reales. Estoy especialmente motivado por los entornos colaborativos y los retos técnicos.
+🔹 **Receipt Management System**  
+_Prototype system for managing service and rental receipts across multiple apartments. 
+**Technologies**: Python, MySql, PyQT  
+> Modeled clients, orders, and dispatch logistics using multiple vehicles. Included performance metrics, data visualization, and optimization logic.
+
+🔹 **Inventory System**  
+_Prototype inventory system for tracking product inflow and outflow.
+**Technologies**: Java, Mysql
+> Developed collaboratively in a team. Features include full CRUD operations, user authentication, database integration, and local server deployment.
+
+🔹 **Other Projects**:  
+- Implementation of an arithmetic coding algorithm for data compression using Python.
 
 ---
 
-## 🌐 Enlaces
+## 🚀 Professional Objective
+
+As a Systems and Computing Engineering student, I’m actively seeking opportunities as a Junior Developer or Intern where I can apply my skills in Python, Java, SQL, Git, and JavaScript to real-world challenges. I’m passionate about backend development, data analysis, with growing interest in artificial intelligence and cybersecurity. I enjoy working in collaborative environments that embrace Agile methodologies like Scrum, where innovation, adaptability, and continuous learning are key. My goal is to transform academic knowledge into impactful solutions while expanding my expertise across emerging technologies and securing digital systems.
+
+---
+
+## 🌐 Links   
 
 - 🔗 LinkedIn: [John Alejandro Pastor Sandoval](https://www.linkedin.com/in/john-alejandro-pastor-sandoval-96441b341?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkWhcj9bjRjCpN10ObZhHYw%3D%3D)
 - 📫 Email: jpastor@unal.edu.co

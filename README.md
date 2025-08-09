@@ -14,7 +14,7 @@
 
 - **Programming Languages**: Python, JavaScript, Java  
 - **Frontend**: HTML, CSS, React (Basic Proficiency) 
-- **DataBases**: MySQL, SQL Server, Oracle PostgreSQL
+- **DataBases**: MySQL, SQL Server, Oracle and learning PostgreSQL
 - **Otros**: Git, GitHub
 - **Data Analysis**: Numpy, Pandas and SimPy (Basic Proficiency)
 

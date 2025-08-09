@@ -41,5 +41,5 @@ Busco oportunidades como desarrollador junior o practicante donde pueda aplicar 
 
 ## 🌐 Enlaces
 
-- 🔗 [LinkedIn]()
+- 🔗 LinkedIn: [John Alejandro Pastor Sandoval](https://www.linkedin.com/in/john-alejandro-pastor-sandoval-96441b341?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkWhcj9bjRjCpN10ObZhHYw%3D%3D)
 - 📫 Email: jpastor@unal.edu.co

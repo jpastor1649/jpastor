@@ -33,7 +33,7 @@ _Prototype inventory system for tracking product inflow and outflow.
 > Developed collaboratively in a team. Features include full CRUD operations, user authentication, database integration, and local server deployment.
 
 🔹 **Other Projects**:  
-- Implementation of an arithmetic coding algorithm for data compression using Python.
+  * Implementation of an arithmetic coding algorithm for data compression using Python.
 
 ---
 

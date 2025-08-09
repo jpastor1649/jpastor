@@ -29,7 +29,7 @@ Tecnologías: Java, Mysql
 > Desarrollado en equipo. CRUD completo, autenticación, conexión a base de datos y despliegue en servidor local.
 
 🔹 **Otros proyectos**:  
-- Sistema de codificación Huffman en Python
+- Sistema de codificación Aritmetica en Python
 
 ---
 
